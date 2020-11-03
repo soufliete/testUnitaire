@@ -1,1 +1,155 @@
-
+{
+    "steps": [
+        {
+            "id": 1,
+            "name": "First Step"
+        },
+        {
+            "id": 2,
+            "name": "Second Step"
+        },
+        {
+            "id": 3,
+            "name": "Third Step"
+        },
+        {
+            "id": 4,
+            "name": "Fourth Step"
+        },
+        {
+            "id": 5,
+            "name": "Fifth Step"
+        }
+    ],
+    "First Step": [
+        {
+            "id": 1,
+            "name": "Brand New CM Transfer"
+        },
+        {
+            "id": 2,
+            "name": "Lightning fast mobile file transfer"
+        },
+        {
+            "id": 3,
+            "name": "Simply share files in any format and any size"
+        },
+        {
+            "id": 4,
+            "name": "Instantly find nearby friends with Bluetooth support"
+        }
+    ],
+    "Second Step": [
+        {
+            "id": 1,
+            "name": "Build connections without internet"
+        },
+        {
+            "id": 2,
+            "name": "Enjoy exchanging files under the brand new look"
+        },
+        {
+            "id": 3,
+            "name": "Share your ideas with us"
+        },
+        {
+            "id": 4,
+            "name": "Happiness is to share"
+        }
+    ],
+    "Third Step": [
+        {
+            "id": 1,
+            "name": "Build connections without internet"
+        },
+        {
+            "id": 2,
+            "name": "Enjoy exchanging files under the brand new look"
+        },
+        {
+            "id": 3,
+            "name": "Simply share files in any format and any size"
+        },
+        {
+            "id": 4,
+            "name": "Instantly find nearby friends with Bluetooth support"
+        }
+    ],
+    "Fourth Step": [
+        
+        {
+            "id": 1,
+            "name": "Brand New CM Transfer"
+        },
+        {
+            "id": 2,
+            "name": "Lightning fast mobile file transfer"
+        },
+        {
+            "id": 3,
+            "name": "Share your ideas with us"
+        },
+        {
+            "id": 4,
+            "name": "Happiness is to share"
+        }
+    ],
+    "Fifth Step": [
+       {
+            "id": 1,
+            "name": "Simply share files in any format and any size"
+        },
+        {
+            "id": 2,
+            "name": "Instantly find nearby friends with Bluetooth support"
+        },
+        {
+            "id": 3,
+            "name": "Enjoy exchanging files under the brand new look"
+        },
+        {
+            "id": 4,
+            "name":"Build connections without internet"
+        }
+    ],
+    "Brand New CM Transfer": [
+        {
+            "name": "CM Transfer evolved! With the beautifully redesigned new look and enhanced file transferring technology, sharing files with friends is now simpler, faster and more secure.Breaking news to Android 7 & 8 users: YES, CM Transfer now officially supports Android 7 & 8 devices! Got something to share? Just share it!"        
+        }
+    ],
+    "Lightning fast mobile file transfer": [
+        {
+            "name": "With the support of high-speed Wi-Fi, CM Transfer is able to transfer your apps, HD videos, photos and any large files to your friends nearby within just seconds."       
+        }
+    ],
+    "Simply share files in any format and any size": [
+        {
+            "name": "It's fun to share. Share beloved apps and interesting games. Share exciting movies and soul touching music. Share important contacts. Share photos with invaluable memories. With CM Transfer, you're free to share everything regardless of their sizes."
+        }
+    ],
+    "Instantly find nearby friends with Bluetooth support": [
+        {
+            "name": "It takes two to tango. So does share. CM Transfer makes it easy for you and your friends to find each other. With Bluetooth, as soon as you tap 'Send Files', CM Transfer lists out your nearby friends who are using CM Transfer and ready to exchange files. (Additional permissions are required, including Bluetooth and location service.)"       
+        }
+    ],
+    "Build connections without internet": [
+        {
+            "name": "Get apps and games from friends with CM Transfer so you don't have to download them via the internet. Exchanging files with CM Transfer cuts your internet costs. Furthermore, with the fast Wi-Fi connection, CM Transfer saves your time sending and receiving files."       
+        }
+    ],
+    "Enjoy exchanging files under the brand new look": [
+        {
+            "name": "Sharing is fun and that is why CM Transfer evolved into such brand new look. With the newly crafted UI, you're able to send and receive files at the same time in a chatroom-alike page. Furthermore, the new transfer history makes finding shared files easier and interesting."       
+        }
+    ],
+    "Share your ideas with us": [
+        {
+            "name": "Share not only files, but your precious ideas on how we can make CM Transfer better! Send us your suggestions One of the TOP RATED file transfer apps. Share photos, videos, apps, and files with friends nearby. Fast, secure, no Internet required.Favorite music? Share it to friends with no 3G/4G and no charge.Lively sharing"       
+        }
+    ],
+    "Happiness is to share": [
+        {
+            "name": "Send Contacts: introduce contact at ease. Just share it by CM Transfer easily, quickly and safely.Send Apps: share interesting apps at a party with friends.Send Music & Movies: have a great movie or to an emotional song? Share it to your family unhesitatingly.Send Photos & Videos: when you wish to share beautiful photos with the friends traveling with you.Send Game Apps: when you happen to download a funny game and your friends want it too. Simply share it via CM Transfer."       
+        }
+    ]
+}
